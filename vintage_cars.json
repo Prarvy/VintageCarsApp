@@ -1,0 +1,18 @@
+{
+  "vintage_cars": [
+    {
+      "id": 2,
+      "brand": "FORD",
+      "model": "ECOSport",
+      "production_year": 1999,
+      "convertible": true
+    },
+    {
+      "id": 3,
+      "brand": "Ford",
+      "model": "Mustang",
+      "production_year": 1998,
+      "convertible": true
+    }
+  ]
+}
