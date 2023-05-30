@@ -2,17 +2,17 @@
   "vintage_cars": [
     {
       "id": 2,
-      "brand": "FORD",
-      "model": "ECOSport",
-      "production_year": 1999,
-      "convertible": true
-    },
-    {
-      "id": 3,
       "brand": "Ford",
       "model": "Mustang",
       "production_year": 1998,
       "convertible": true
+    },
+    {
+      "id": 5,
+      "brand": "General Motors",
+      "model": "Model V",
+      "production_year": 1987,
+      "convertible": false
     }
   ]
 }
